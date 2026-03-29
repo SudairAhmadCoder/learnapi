@@ -1,0 +1,28 @@
+
+
+API KEY = c14634cef6524311bb2d09042bbac471
+
+
+MULTIPLES API WITH PARAMETERS:
+-------------------------------
+
+https://newsapi.org/v2/everything?q=tesla&from=2026-02-28&sortBy=publishedAt&apiKey=c14634cef6524311bb2d09042bbac471
+
+-------------------------------
+
+
+https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=c14634cef6524311bb2d09042bbac471
+
+-------------------------------
+
+
+https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=c14634cef6524311bb2d09042bbac471
+
+-------------------------------
+
+https://newsapi.org/v2/everything?domains=wsj.com&apiKey=c14634cef6524311bb2d09042bbac471
+
+-------------------------------
+
+https://newsapi.org/v2/everything?q=bitcoin&apiKey=c14634cef6524311bb2d09042bbac471
+
